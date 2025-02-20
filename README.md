@@ -19,7 +19,6 @@
 - 📚 Microaprendizaje y plataformas educativas  
 - 🛍️ E-commerce y optimización de tiendas online  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffry-herrera-533379p)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JEFFRYHERRERA25)
 <!--
 **JEFFRYHERRERA25/JEFFRYHERRERA25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
